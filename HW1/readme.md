@@ -37,7 +37,7 @@ The <strong>main</strong> function should call both functions and demonstrate co
 
 <h2>Discussion Questions</h2>
 <p>
-As part of the assignment, students are asked to consider questions that arise during implementation. Example questions include:
+As part of the assignment, We need to consider questions for this type of assignment and my questions are the following:
 </p>
 <ol>
   <li>How should the program handle invalid input (e.g., non-numeric values)?</li>
