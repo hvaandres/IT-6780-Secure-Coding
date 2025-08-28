@@ -41,5 +41,5 @@ As part of the assignment, students are asked to consider questions that arise d
 </p>
 <ol>
   <li>How should the program handle invalid input (e.g., non-numeric values)?</li>
-  <li>Should the functions return results or print them directly?</li>
+  <li>Should we have a function that should return results or print them directly?</li>
 </ol>
