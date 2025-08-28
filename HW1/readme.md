@@ -1,4 +1,4 @@
-<h1>Master’s Program Assignment</h1>
+<h1>Homework 001</h1>
 
 <p>
 This repository contains an assignment from my master’s degree coursework.  
