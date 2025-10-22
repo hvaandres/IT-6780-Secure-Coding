@@ -1,0 +1,53 @@
+Hello, this is a safe string
+SELECT * FROM users WHERE id = 1
+SELECT * FROM users WHERE name = 'admin' OR '1'='1'
+DROP TABLE users;
+<script>alert('XSS Attack')</script>
+<img src=x onerror=alert('XSS')>
+This is normal HTML text without tags
+<p>This is a paragraph</p>
+javascript:void(0)
+ls -la
+rm -rf /
+cat /etc/passwd
+echo "Hello World"
+dir && del *.txt
+$(whoami)
+cd ../../../etc
+user@example.com
+john.doe@company.co.uk
+invalid.email@
+@invalid.com
+test@domain
+name+tag@example.com
+12345
+90210
+12345-6789
+ABCDE
+K1A 0B1
+M5H2N2
+H0H 0H0
+12345-123
+Not a zip code at all
+98765-4321
+test' OR 1=1--
+<iframe src="malicious.com"></iframe>
+Normal text with numbers 123
+user@domain.com
+pip install requests
+sudo apt-get update
+<body onload=alert('XSS')>
+Simple sentence.
+emily.watson@mail-server.org
+555-1234
+A1A1A1
+10001
+V6B 1A1
+admin'--
+'; DROP DATABASE test;--
+<embed src="flash.swf">
+netstat -an | grep LISTEN
+cal 2024
+hello@localhost
+94043-1234
+file
