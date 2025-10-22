@@ -1,0 +1,1 @@
+This code is provided to help you get started.  If you are not using Java to complete the assignment then you can use it as pseudocode.  You need to implement the methods encrypt() and decrypt() as part of the assignment.
