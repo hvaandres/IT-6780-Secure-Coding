@@ -1,0 +1,62 @@
+HW9 Test Results Log
+==================================================
+
+Test Case: TC1
+Description: Addition of two positive integers
+Inputs: 5, 7
+Expected Result: 12
+Actual Result: 12
+Status: PASS
+Severity: N/A
+Date/Time: 2025-11-04 20:20:52
+--------------------------------------------------
+
+Test Case: TC2
+Description: Addition of positive and negative integers
+Inputs: 10, -3
+Expected Result: 7
+Actual Result: 7
+Status: PASS
+Severity: N/A
+Date/Time: 2025-11-04 20:20:52
+--------------------------------------------------
+
+Test Case: TC3
+Description: Addition involving zero
+Inputs: 0, 25
+Expected Result: 25
+Actual Result: 25
+Status: PASS
+Severity: N/A
+Date/Time: 2025-11-04 20:20:52
+--------------------------------------------------
+
+Test Case: TC4
+Description: Subtraction of two positive integers
+Inputs: 15, 8
+Expected Result: 7
+Actual Result: 7
+Status: PASS
+Severity: N/A
+Date/Time: 2025-11-04 20:20:52
+--------------------------------------------------
+
+Test Case: TC5
+Description: Subtraction resulting in negative value
+Inputs: 6, 10
+Expected Result: -4
+Actual Result: -4
+Status: PASS
+Severity: N/A
+Date/Time: 2025-11-04 20:20:52
+--------------------------------------------------
+
+Test Case: TC6
+Description: Subtraction involving zero
+Inputs: 12, 0
+Expected Result: 12
+Actual Result: 12
+Status: PASS
+Severity: N/A
+Date/Time: 2025-11-04 20:20:52
+--------------------------------------------------
